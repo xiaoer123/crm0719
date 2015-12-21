@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("nihao...");
 		System.out.println("hello github服务器....");
 		System.out.println("hello github服务器....我来啦~！");
+		System.out.println("hello github服务器....我来啦~！2222");
 		
 	}
 
